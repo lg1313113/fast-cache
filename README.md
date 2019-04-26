@@ -8,6 +8,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/lg1313113/fast-cache/releases
 
 ## 快速使用
 
