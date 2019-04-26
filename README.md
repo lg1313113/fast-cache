@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/lg1313113/fast-cache/releases
+- 'npm i fast-cache-npm'
+- CDN http://unpkg.com/fast-cache-npm-linge/release/bundle.js
 
 ## 快速使用
 

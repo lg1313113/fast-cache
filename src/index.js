@@ -8,6 +8,9 @@ class fastCache {
     get(key) {
         return this.list[key]
     }
+    clear() {
+        this.list = {}
+    }
 }
 
 window.fastCache = fastCache
